@@ -1,6 +1,6 @@
 ---
 theme:
-    name: Astra
+    name: astra
     url: https://downloads.wordpress.org/theme/astra.3.7.6.zip
 plugins:
    - https://downloads.wordpress.org/plugin/elementor.3.5.3.zip
