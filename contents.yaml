@@ -1,7 +1,7 @@
 ---
 theme:
     name: astra
-    url: https://www.ecloudcontrol.com/wp-content/uploads/2022/01/astra.zip
+    url: https://www.ecloudcontrol.com/wp-content/uploads/2022/01/astra-1.0.2.zip
 plugins:
    - https://downloads.wordpress.org/plugin/elementor.3.5.3.zip
    - https://downloads.wordpress.org/plugin/astra-widgets.1.2.9.zip
