@@ -42,5 +42,5 @@ properties:
   MYSQL_PASSWORD:
      vault: MYSQL_PASSWORD_KEY
   #Generate hash at https://ehikioya.com/wordpress-password-hash-generator/
-  ADMIN_PASSWORD_HASH: $P$B6hBjwgo/pi8k0hL.nzlt7TpwauzeF1
+  ADMIN_PASSWORD_HASH: $P$BMi90m2zQIxtU8gOIpn4rxB6qxPgkg0
   revision : 9
